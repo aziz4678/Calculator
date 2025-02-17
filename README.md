@@ -1,4 +1,5 @@
-Simple Calculator
+**Simple Calculator**
+
 Ini adalah proyek kalkulator sederhana berbasis web yang dibuat menggunakan HTML, CSS, dan JavaScript. Kalkulator ini memiliki fitur dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian.
 
 📌 Fitur
